@@ -1,0 +1,780 @@
+car_brand,car_model,year_range,part_category,part_name,part_price,repair_labour_cost,replace_labour_cost,total_repair_cost,total_replace_cost
+Hyundai,Creta,2020-2024,Engine Parts,Radiator,5644,1500,2000,7144,7644
+Hyundai,Creta,2020-2024,Engine Parts,Timing Chain,2925,2500,3000,5425,5925
+Hyundai,Creta,2020-2024,Engine Parts,Spark Plug,1125,300,400,1425,1525
+Hyundai,Creta,2020-2024,Engine Parts,Fan Belt,700,500,600,1200,1300
+Hyundai,Creta,2020-2024,Engine Parts,Clutch Plate,5245,3000,3500,8245,8745
+Hyundai,Creta,2020-2024,Electric Parts,Tail Light Left,2602,800,1000,3402,3602
+Hyundai,Creta,2020-2024,Electric Parts,Tail Light Right,2602,800,1000,3402,3602
+Hyundai,Creta,2020-2024,Body Parts,Front Bumper,1820,1500,2000,3320,3820
+Hyundai,Creta,2020-2024,Body Parts,Rear Bumper,3393,1500,2000,4893,5393
+Hyundai,Creta,2020-2024,Body Parts,Bonnet/Hood,7919,2000,2500,9919,10419
+Hyundai,Creta,2020-2024,Body Parts,Front Windshield Glass,5120,2000,2500,7120,7620
+Hyundai,Creta,2020-2024,Body Parts,Rear Windshield Glass,3754,1500,2000,5254,5754
+Toyota,Camry,2020-2024,Engine Parts,Radiator,12000,1800,2200,13800,14200
+Toyota,Camry,2020-2024,Engine Parts,Timing Chain,4500,2800,3300,7300,7800
+Toyota,Camry,2020-2024,Engine Parts,Spark Plug,800,400,500,1200,1300
+Mahindra,BE 6,2020-2024,Engine Parts,Radiator,6500,1600,2000,8100,8500
+Mahindra,BE 6,2020-2024,Engine Parts,Timing Chain,3200,2400,2900,5600,6100
+Mahindra,BE 6,2020-2024,Engine Parts,Spark Plug,600,350,450,950,1050
+Maruti,Swift Dzire,2020-2024,Engine Parts,Radiator,3199,1200,1500,4399,4699
+Maruti,Swift Dzire,2020-2024,Engine Parts,Intercooler,1898,1500,1800,3398,3698
+Maruti,Swift Dzire,2020-2024,Engine Parts,Timing Chain,529,2000,2500,2529,3029
+Maruti,Swift Dzire,2020-2024,Engine Parts,Spark Plug,779,300,400,1079,1179
+Maruti,Swift Dzire,2020-2024,Engine Parts,Fan Belt,239,400,500,639,739
+Maruti,Swift Dzire,2020-2024,Engine Parts,Cylinder Kit,8550,3500,4000,12050,12550
+Maruti,Swift Dzire,2020-2024,Engine Parts,Clutch Plate,1819,2500,3000,4319,4819
+Maruti,Swift Dzire,2020-2024,Electric Parts,Head Light,2982,800,1000,3782,3982
+Maruti,Swift Dzire,2020-2024,Electric Parts,Tail Light,1094,600,800,1694,1894
+Maruti,Swift Dzire,2020-2024,Electric Parts,Bulb,119,200,300,319,419
+Maruti,Swift Dzire,2020-2024,Electric Parts,Fog Lamp,3490,600,800,4090,4290
+Maruti,Swift Dzire,2020-2024,Electric Parts,Combination Switch,680,800,1000,1480,1680
+Maruti,Swift Dzire,2020-2024,Electric Parts,Battery,4276,500,600,4776,4876
+Maruti,Swift Dzire,2020-2024,Electric Parts,Horn,235,300,400,535,635
+Maruti,Swift Dzire,2020-2024,Body Parts,Bonnet/Hood,3560,1500,2000,5060,5560
+Maruti,Swift Dzire,2020-2024,Body Parts,Fender,649,800,1000,1449,1649
+Maruti,Swift Dzire,2020-2024,Body Parts,Front Door,3499,1200,1500,4699,4999
+Maruti,Swift Dzire,2020-2024,Body Parts,Rear Door,6473,1200,1500,7673,7973
+Maruti,Swift Dzire,2020-2024,Body Parts,Dicky,4500,1500,2000,6000,6500
+Maruti,Swift Dzire,2020-2024,Body Parts,Rear View Mirror,220,300,400,520,620
+Maruti,Swift Dzire,2020-2024,Body Parts,Back Panel,350,1000,1200,1350,1550
+Maruti,Swift Dzire,2020-2024,Body Parts,Front Panel,350,1000,1200,1350,1550
+Maruti,Swift Dzire,2020-2024,Body Parts,Accessory belt,480,400,500,880,980
+Maruti,Swift Dzire,2020-2024,Body Parts,BACK DOOR,5066,1500,2000,6566,7066
+Maruti,Swift Dzire,2020-2024,Body Parts,Fuel Tank,14500,2000,2500,16500,17000
+Maruti,Swift Dzire,2020-2024,Body Parts,Side View Mirror,1124,400,500,1524,1624
+Maruti,Swift Dzire,2020-2024,Body Parts,Wipers,270,300,400,570,670
+Maruti,Swift Dzire,2020-2024,Brakes & Suspension,Disc Brake Front,1135,800,1000,1935,2135
+Maruti,Swift Dzire,2020-2024,Brakes & Suspension,Disc Brake Rear,1135,800,1000,1935,2135
+Maruti,Swift Dzire,2020-2024,Brakes & Suspension,Shock Absorber Set,1700,1200,1500,2900,3200
+Maruti,Swift Dzire,2020-2024,Brakes & Suspension,Front Brake Pads,1580,600,800,2180,2380
+Maruti,Swift Dzire,2020-2024,Brakes & Suspension,Rear Brake Pads,1580,600,800,2180,2380
+Maruti,Swift Dzire,2020-2024,Wheels,Alloy Wheel Front,6590,800,1000,7390,7590
+Maruti,Swift Dzire,2020-2024,Wheels,Alloy Wheel Rear,6590,800,1000,7390,7590
+Maruti,Swift Dzire,2020-2024,Service Parts,Air Filter,300,200,300,500,600
+Maruti,Swift Dzire,2020-2024,Service Parts,Fuel Filter,355,300,400,655,755
+Mercedes-Benz,E-Class,2021-2024,Engine Parts,Radiator,29627,3000,3500,32627,33127
+Mercedes-Benz,E-Class,2021-2024,Electric Parts,Head Light,58435,1500,2000,59935,60435
+Mercedes-Benz,E-Class,2021-2024,Electric Parts,Tail Light,25048,1200,1500,26248,26548
+Mercedes-Benz,E-Class,2021-2024,Electric Parts,Fog Lamp,8959,800,1000,9759,9959
+Mercedes-Benz,E-Class,2021-2024,Electric Parts,Battery,50898,800,1000,51698,51898
+Mercedes-Benz,E-Class,2021-2024,Electric Parts,Horn,2036,400,500,2436,2536
+Mercedes-Benz,E-Class,2021-2024,Body Parts,Side View Mirror,36191,800,1000,36991,37191
+Mercedes-Benz,E-Class,2021-2024,Body Parts,Wipers,2686,400,500,3086,3186
+Mercedes-Benz,E-Class,2021-2024,Brakes & Suspension,Disc Brake Front,21516,1500,1800,23016,23316
+Mercedes-Benz,E-Class,2021-2024,Brakes & Suspension,Disc Brake Rear,21516,1500,1800,23016,23316
+Mercedes-Benz,E-Class,2021-2024,Brakes & Suspension,Front Brake Pads,14159,800,1000,14959,15159
+Mercedes-Benz,E-Class,2021-2024,Brakes & Suspension,Rear Brake Pads,14159,800,1000,14959,15159
+Mercedes-Benz,E-Class,2021-2024,Oil & Lubricants,Engine Oil,1929,300,400,2229,2329
+Mercedes-Benz,E-Class,2021-2024,Service Parts,Oil Filter,1539,300,400,1839,1939
+Mercedes-Benz,E-Class,2021-2024,Service Parts,Air Filter,1898,300,400,2198,2298
+Mercedes-Benz,E-Class,2021-2024,Service Parts,Fuel Filter,1235,400,500,1635,1735
+Mahindra,Thar,2020-2025,Engine Parts,Radiator,6673,1500,1800,8173,8473
+Mahindra,Thar,2020-2025,Engine Parts,Intercooler,5674,1800,2000,7474,7674
+Mahindra,Thar,2020-2025,Engine Parts,Timing Chain,3335,2500,3000,5835,6335
+Mahindra,Thar,2020-2025,Engine Parts,Clutch Plate,2230,2500,3000,4730,5230
+Mahindra,Thar,2020-2025,Electric Parts,Combination Switch,1936,800,1000,2736,2936
+Mahindra,Thar,2020-2025,Body Parts,Front Bumper,1797,1200,1500,2997,3297
+Mahindra,Thar,2020-2025,Body Parts,Rear Bumper,870,1200,1500,2070,2370
+Mahindra,Thar,2020-2025,Body Parts,Bonnet/Hood,7128,1800,2200,8928,9328
+Mahindra,Thar,2020-2025,Body Parts,Front Windshield Glass,2764,1500,1800,4264,4564
+Mahindra,Thar,2020-2025,Body Parts,Fender,5271,800,1000,6071,6271
+Mahindra,Thar,2020-2025,Body Parts,Front Door,7875,1200,1500,9075,9375
+Mahindra,Thar,2020-2025,Body Parts,Rear Door,5373,1200,1500,6573,6873
+Mahindra,Thar,2020-2025,Body Parts,Front Door Handle Outer,323,300,400,623,723
+Mahindra,Thar,2020-2025,Body Parts,Rear View Mirror,890,400,500,1290,1390
+Mahindra,Thar,2020-2025,Body Parts,Back Panel,5479,1500,1800,6979,7279
+Mahindra,Thar,2020-2025,Body Parts,Front Panel,5479,1500,1800,6979,7279
+Mahindra,Thar,2020-2025,Body Parts,Accessory belt,1659,500,600,2159,2259
+Mahindra,Thar,2020-2025,Body Parts,Side View Mirror,5673,600,800,6273,6473
+Mahindra,Thar,2020-2025,Body Parts,Engine Guard,3254,800,1000,4054,4254
+Mahindra,Thar,2020-2025,Brakes & Suspension,Disc Brake Front,1800,1200,1500,3000,3300
+Mahindra,Thar,2020-2025,Brakes & Suspension,Disc Brake Rear,1800,1200,1500,3000,3300
+Mahindra,Thar,2020-2025,Brakes & Suspension,Shock Absorber Set,1954,1500,1800,3454,3754
+Mahindra,Thar,2020-2025,Brakes & Suspension,Front Brake Pads,2312,800,1000,3112,3312
+Mahindra,Thar,2020-2025,Brakes & Suspension,Rear Brake Pads,2312,800,1000,3112,3312
+Mahindra,Thar,2020-2025,Service Parts,Air Filter,420,300,400,720,820
+Tata,Altroz,2020-2023,Engine Parts,Timing Chain,285,2000,2500,2285,2785
+Tata,Altroz,2020-2023,Engine Parts,Clutch Plate,4255,2500,3000,6755,7255
+Tata,Altroz,2020-2023,Electric Parts,Fog Lamp,4513,600,800,5113,5313
+Tata,Altroz,2020-2023,Electric Parts,Head Light LED,7547,800,1000,8347,8547
+Tata,Altroz,2020-2023,Electric Parts,Tail Light LED,1394,600,800,1994,2194
+Tata,Altroz,2020-2023,Body Parts,Front Bumper,3338,1200,1500,4538,4838
+Tata,Altroz,2020-2023,Body Parts,Rear Bumper,3338,1200,1500,4538,4838
+Tata,Altroz,2020-2023,Body Parts,Fender,3197,800,1000,3997,4197
+Tata,Altroz,2020-2023,Accessories,Mobile Holder,880,200,300,1080,1180
+Tata,Altroz,2020-2023,Accessories,Floor mats,1950,200,300,2150,2250
+Tata,Altroz,2020-2023,Brakes & Suspension,Disc Brake Front,1651,1200,1500,2851,3151
+Tata,Altroz,2020-2023,Brakes & Suspension,Disc Brake Rear,1651,1200,1500,2851,3151
+Tata,Altroz,2020-2023,Brakes & Suspension,Front Brake Pads,729,800,1000,1529,1729
+Tata,Altroz,2020-2023,Brakes & Suspension,Rear Brake Pads,729,800,1000,1529,1729
+Tata,Altroz,2020-2023,Service Parts,Oil Filter,217,300,400,517,617
+Tata,Altroz,2020-2023,Service Parts,Air Filter,826,300,400,1126,1226
+Maruti,Swift,2014-2021,Engine Parts,Radiator,4410,1200,1500,5610,5910
+Maruti,Swift,2014-2021,Engine Parts,Intercooler,3375,1500,1800,4875,5175
+Maruti,Swift,2014-2021,Engine Parts,Timing Chain,2290,2000,2500,4290,4790
+Maruti,Swift,2014-2021,Engine Parts,Spark Plug,342,300,400,642,742
+Maruti,Swift,2014-2021,Engine Parts,Cylinder Kit,15405,3500,4000,18905,19405
+Maruti,Swift,2014-2021,Engine Parts,Clutch Plate,970,2500,3000,3470,3970
+Maruti,Swift,2014-2021,Electric Parts,Head Light,2800,800,1000,3600,3800
+Maruti,Swift,2014-2021,Electric Parts,Tail Light,2000,600,800,2600,2800
+Maruti,Swift,2014-2021,Electric Parts,Fog Lamp Assembly,430,600,800,1030,1230
+Maruti,Swift,2014-2021,Electric Parts,Bulb,114,200,300,314,414
+Maruti,Swift,2014-2021,Electric Parts,Head Light LED,3500,800,1000,4300,4500
+Maruti,Swift,2014-2021,Electric Parts,Horn,320,300,400,620,720
+Maruti,Swift,2014-2021,Body Parts,Front Bumper,1501,1200,1500,2701,3001
+Maruti,Swift,2014-2021,Body Parts,Rear Bumper,2780,1200,1500,3980,4280
+Maruti,Swift,2014-2021,Body Parts,Bonnet/Hood,3133,1500,2000,4633,5133
+Maruti,Swift,2014-2021,Body Parts,Front Windshield Glass,3340,1500,1800,4840,5140
+Maruti,Swift,2014-2021,Body Parts,Rear Windshield Glass,2560,1200,1500,3760,4060
+Maruti,Swift,2014-2021,Body Parts,Fender,1080,800,1000,1880,2080
+Maruti,Swift,2014-2021,Body Parts,Front Door,4810,1200,1500,6010,6310
+Maruti,Swift,2014-2021,Body Parts,Rear Door,6625,1200,1500,7825,8125
+Maruti,Swift,2014-2021,Body Parts,Dicky,4736,1500,2000,6236,6736
+Maruti,Swift,2014-2021,Body Parts,Front Door Handle Outer,750,300,400,1050,1150
+Maruti,Swift,2014-2021,Body Parts,Back Panel,710,1000,1200,1710,1910
+Maruti,Swift,2014-2021,Body Parts,Front Panel,750,1000,1200,1750,1950
+Maruti,Swift,2014-2021,Body Parts,Accessory belt,1646,500,600,2146,2246
+Maruti,Swift,2014-2021,Body Parts,BACK DOOR,5066,1500,2000,6566,7066
+Maruti,Swift,2014-2021,Body Parts,Side View Mirror,2869,400,500,3269,3369
+Maruti,Swift,2014-2021,Body Parts,Engine Guard,2100,800,1000,2900,3100
+Maruti,Swift,2014-2021,Body Parts,Wipers,513,300,400,813,913
+Maruti,Swift,2014-2021,Brakes & Suspension,Disc Brake Front,1150,800,1000,1950,2150
+Maruti,Swift,2014-2021,Brakes & Suspension,Disc Brake Rear,1150,800,1000,1950,2150
+Maruti,Swift,2014-2021,Brakes & Suspension,Shock Absorber Set,3461,1200,1500,4661,4961
+Maruti,Swift,2014-2021,Brakes & Suspension,Front Brake Pads,1530,600,800,2130,2330
+Maruti,Swift,2014-2021,Brakes & Suspension,Rear Brake Pads,1530,600,800,2130,2330
+Maruti,Swift,2014-2021,Wheels,Alloy Wheel Front,6990,800,1000,7790,7990
+Maruti,Swift,2014-2021,Wheels,Alloy Wheel Rear,6990,800,1000,7790,7990
+Maruti,Swift,2014-2021,Service Parts,Oil Filter,438,300,400,738,838
+Maruti,Swift,2014-2021,Service Parts,Air Filter,978,300,400,1278,1378
+Maruti,Swift,2014-2021,Service Parts,Fuel Filter,972,300,400,1272,1372
+Tata,Tiago,2016-2023,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Tata,Tiago,2016-2023,Engine Parts,Timing Chain,1605,2000,2500,3605,4105
+Tata,Tiago,2016-2023,Engine Parts,Fan Belt,455,400,500,855,955
+Tata,Tiago,2016-2023,Engine Parts,Clutch Plate,3140,2500,3000,5640,6140
+Tata,Tiago,2016-2023,Electric Parts,Head Light,7680,800,1000,8480,8680
+Tata,Tiago,2016-2023,Electric Parts,Tail Light,2176,600,800,2776,2976
+Tata,Tiago,2016-2023,Body Parts,Front Bumper,2560,1200,1500,3760,4060
+Tata,Tiago,2016-2023,Body Parts,Rear Bumper,2560,1200,1500,3760,4060
+Tata,Tiago,2016-2023,Body Parts,Bonnet/Hood,8960,1500,2000,10460,10960
+Tata,Tiago,2016-2023,Body Parts,Front Windshield Glass,8960,1500,1800,10460,10760
+Tata,Tiago,2016-2023,Body Parts,Rear Windshield Glass,5120,1200,1500,6320,6620
+Tata,Tiago,2016-2023,Body Parts,Fender,1664,800,1000,2464,2664
+Tata,Tiago,2016-2023,Body Parts,Front Door,23552,1200,1500,24752,25052
+Tata,Tiago,2016-2023,Body Parts,Rear Door,23552,1200,1500,24752,25052
+Tata,Tiago,2016-2023,Body Parts,Dicky,5120,1500,2000,6620,7120
+Tata,Tiago,2016-2023,Body Parts,Side View Mirror,1150,400,500,1550,1650
+Tata,Tiago,2016-2023,Body Parts,Wipers,510,300,400,810,910
+Tata,Tiago,2016-2023,Brakes & Suspension,Disc Brake Front,1050,800,1000,1850,2050
+Tata,Tiago,2016-2023,Brakes & Suspension,Disc Brake Rear,1050,800,1000,1850,2050
+Tata,Tiago,2016-2023,Brakes & Suspension,Front Brake Pads,1465,600,800,2065,2265
+Tata,Tiago,2016-2023,Brakes & Suspension,Rear Brake Pads,1465,600,800,2065,2265
+Tata,Tiago,2016-2023,Service Parts,Oil Filter,120,300,400,420,520
+Tata,Tiago,2016-2023,Service Parts,Air Filter,454,300,400,754,854
+Tata,Tiago,2016-2023,Service Parts,Fuel Filter,385,300,400,685,785
+Kia,Sonet,2020-2024,Engine Parts,Spark Plug,1341,300,400,1641,1741
+Kia,Sonet,2020-2024,Oil & Lubricants,Engine Oil,1217,300,400,1517,1617
+Kia,Sonet,2020-2024,Oil & Lubricants,Coolant,563,200,300,763,863
+Kia,Sonet,2020-2024,Oil & Lubricants,Brake Oil,295,200,300,495,595
+Kia,Sonet,2020-2024,Service Parts,Oil Filter,360,300,400,660,760
+Kia,Sonet,2020-2024,Service Parts,Fuel Filter,609,300,400,909,1009
+Kia,Carens,2022-2024,Accessories,Body side moulding (chrome),2737,400,500,3137,3237
+Kia,Carens,2022-2024,Accessories,Window chrome beltline,2255,500,600,2755,2855
+Kia,Carens,2022-2024,Accessories,Front bumper garnish,537,300,400,837,937
+Kia,Carens,2022-2024,Accessories,Rear boot garnish,1085,300,400,1385,1485
+Kia,Carens,2022-2024,Accessories,Headlamp garnish,1374,300,400,1674,1774
+Kia,Carens,2022-2024,Accessories,ORVM chrome,1099,300,400,1399,1499
+Kia,Carens,2022-2024,Accessories,Wheel arch chrome,2475,400,500,2875,2975
+Kia,Carens,2022-2024,Accessories,Door visor with chrome insert,4597,500,600,5097,5197
+Kia,Carens,2022-2024,Accessories,Body cover,2256,200,300,2456,2556
+Kia,Carens,2022-2024,Accessories,Mud flap,673,200,300,873,973
+Kia,Carens,2022-2024,Accessories,Door finger guard,999,200,300,1199,1299
+Kia,Carens,2022-2024,Accessories,Chrome door handle,1250,300,400,1550,1650
+Kia,Carens,2022-2024,Accessories,Door edge guard,534,200,300,734,834
+Kia,Carens,2022-2024,Accessories,Rear bumper garnish,505,300,400,805,905
+Kia,Carens,2022-2024,Accessories,C-pillar garnish,841,300,400,1141,1241
+Kia,Carens,2022-2024,Accessories,Taillamp garnish,1787,300,400,2087,2187
+Kia,Carens,2022-2024,Accessories,Side step,20632,800,1000,21432,21632
+Kia,Carens,2022-2024,Accessories,Boot mat,499,200,300,699,799
+Kia,Carens,2022-2024,Accessories,3D boot mat,1089,200,300,1289,1389
+Kia,Carens,2022-2024,Accessories,3D cabin mat,4129,400,500,4529,4629
+Kia,Carens,2022-2024,Accessories,Floor mat,1570,200,300,1770,1870
+Kia,Carens,2022-2024,Accessories,Door sill guard,1072,300,400,1372,1472
+Kia,Carens,2022-2024,Accessories,Sunblinds,2268,400,500,2668,2768
+Kia,Carens,2022-2024,Accessories,Shoe box,949,200,300,1149,1249
+Kia,Carens,2022-2024,Accessories,Seatbelt cover,498,200,300,698,798
+Toyota,Fortuner,2020-2024,Engine Parts,Timing Chain,8138,2800,3300,10938,11438
+Toyota,Fortuner,2020-2024,Engine Parts,Spark Plug,1508,400,500,1908,2008
+Toyota,Fortuner,2020-2024,Engine Parts,Clutch Plate,4001,2800,3300,6801,7301
+Toyota,Fortuner,2020-2024,Electric Parts,Head Light,8438,800,1000,9238,9438
+Toyota,Fortuner,2020-2024,Electric Parts,Tail Light,16500,1200,1500,17700,18000
+Toyota,Fortuner,2020-2024,Electric Parts,Fog Lamp Assembly,7786,600,800,8386,8586
+Toyota,Fortuner,2020-2024,Electric Parts,Bulb,1100,200,300,1300,1400
+Toyota,Fortuner,2020-2024,Electric Parts,Fog Lamp,15572,600,800,16172,16372
+Toyota,Fortuner,2020-2024,Electric Parts,Combination Switch,6430,800,1000,7230,7430
+Toyota,Fortuner,2020-2024,Body Parts,Front Bumper,14857,1500,2000,16357,16857
+Toyota,Fortuner,2020-2024,Body Parts,Rear Bumper,16875,1500,2000,18375,18875
+Toyota,Fortuner,2020-2024,Body Parts,Bonnet/Hood,23000,1800,2200,24800,25200
+Toyota,Fortuner,2020-2024,Body Parts,Front Windshield Glass,14000,1500,1800,15500,15800
+Toyota,Fortuner,2020-2024,Body Parts,Rear Windshield Glass,21999,1200,1500,23199,23499
+Toyota,Fortuner,2020-2024,Body Parts,Fender,15987,800,1000,16787,16987
+Toyota,Fortuner,2020-2024,Body Parts,Front Door Handle Outer,4892,300,400,5192,5292
+Toyota,Fortuner,2020-2024,Body Parts,Rear View Mirror,2637,400,500,3037,3137
+Toyota,Fortuner,2020-2024,Body Parts,Back Panel,16739,1500,1800,18239,18539
+Toyota,Fortuner,2020-2024,Body Parts,Front Panel,16739,1500,1800,18239,18539
+Toyota,Fortuner,2020-2024,Body Parts,Accessory belt,3586,500,600,4086,4186
+Toyota,Fortuner,2020-2024,Body Parts,BACK DOOR,41000,2000,2500,43000,43500
+Toyota,Fortuner,2020-2024,Body Parts,Silencer Assly,27478,1500,1800,28978,29278
+Toyota,Fortuner,2020-2024,Body Parts,Wipers,1192,300,400,1492,1592
+Toyota,Fortuner,2020-2024,Brakes & Suspension,Shock Absorber Set,11112,1500,1800,12612,12912
+Toyota,Fortuner,2020-2024,Brakes & Suspension,Front Brake Pads,1665,800,1000,2465,2665
+Toyota,Fortuner,2020-2024,Brakes & Suspension,Rear Brake Pads,1665,800,1000,2465,2665
+Mahindra,Bolero,2020-2024,Engine Parts,Radiator,4899,1200,1500,6099,6399
+Mahindra,Bolero,2020-2024,Engine Parts,Timing Chain,320,2000,2500,2320,2820
+Mahindra,Bolero,2020-2024,Engine Parts,Fan Belt,320,400,500,720,820
+Mahindra,Bolero,2020-2024,Engine Parts,Clutch Plate,5255,2500,3000,7755,8255
+Mahindra,Bolero,2020-2024,Electric Parts,Head Light,3642,800,1000,4442,4642
+Mahindra,Bolero,2020-2024,Electric Parts,Tail Light,875,600,800,1475,1675
+Mahindra,Bolero,2020-2024,Body Parts,Front Bumper,3445,1200,1500,4645,4945
+Mahindra,Bolero,2020-2024,Body Parts,Rear Bumper,2077,1200,1500,3277,3577
+Mahindra,Bolero,2020-2024,Body Parts,Bonnet/Hood,7855,1500,2000,9355,9855
+Mahindra,Bolero,2020-2024,Body Parts,Front Windshield Glass,4134,1500,1800,5634,5934
+Mahindra,Bolero,2020-2024,Body Parts,Rear Windshield Glass,921,1200,1500,2121,2421
+Mahindra,Bolero,2020-2024,Body Parts,Fender,2943,800,1000,3743,3943
+Mahindra,Bolero,2020-2024,Body Parts,Front Door,9844,1200,1500,11044,11344
+Mahindra,Bolero,2020-2024,Body Parts,Rear Door,9844,1200,1500,11044,11344
+Mahindra,Bolero,2020-2024,Body Parts,Dicky,9036,1500,2000,10536,11036
+Mahindra,Bolero,2020-2024,Body Parts,Side View Mirror,210,400,500,610,710
+Mahindra,Bolero,2020-2024,Body Parts,Wipers,495,300,400,795,895
+Mahindra,Bolero,2020-2024,Brakes & Suspension,Disc Brake Front,1689,800,1000,2489,2689
+Mahindra,Bolero,2020-2024,Brakes & Suspension,Disc Brake Rear,1689,800,1000,2489,2689
+Mahindra,Bolero,2020-2024,Brakes & Suspension,Front Brake Pads,1992,600,800,2592,2792
+Mahindra,Bolero,2020-2024,Brakes & Suspension,Rear Brake Pads,1992,600,800,2592,2792
+Mahindra,Bolero,2020-2024,Service Parts,Oil Filter,210,300,400,510,610
+Mahindra,Bolero,2020-2024,Service Parts,Air Filter,445,300,400,745,845
+Mahindra,Bolero,2020-2024,Service Parts,Fuel Filter,592,300,400,892,992
+Audi,Q7,2022-2024,Engine Parts,Radiator,23757,3000,3500,26757,27257
+Audi,Q7,2022-2024,Engine Parts,Spark Plug,1812,400,500,2212,2312
+Audi,Q7,2022-2024,Electric Parts,Tail Light,20053,1200,1500,21253,21553
+Audi,Q7,2022-2024,Electric Parts,Horn,1549,400,500,1949,2049
+Audi,Q7,2022-2024,Brakes & Suspension,Disc Brake Front,16581,1500,1800,18081,18381
+Audi,Q7,2022-2024,Brakes & Suspension,Disc Brake Rear,16581,1500,1800,18081,18381
+Audi,Q7,2022-2024,Brakes & Suspension,Shock Absorber Set,8305,1500,1800,9805,10105
+Audi,Q7,2022-2024,Brakes & Suspension,Front Brake Pads,10206,800,1000,11006,11206
+Audi,Q7,2022-2024,Brakes & Suspension,Rear Brake Pads,10206,800,1000,11006,11206
+Audi,Q7,2022-2024,Service Parts,Oil Filter,936,300,400,1236,1336
+Audi,Q7,2022-2024,Service Parts,Air Filter,1544,300,400,1844,1944
+Audi,Q7,2022-2024,Service Parts,Fuel Filter,1488,400,500,1888,1988
+BMW,5 Series,2021-2024,Engine Parts,Radiator,47077,3000,3500,50077,50577
+BMW,5 Series,2021-2024,Engine Parts,Spark Plug,2714,400,500,3114,3214
+BMW,5 Series,2021-2024,Electric Parts,Head Light,66949,1500,2000,68449,68949
+BMW,5 Series,2021-2024,Electric Parts,Tail Light,38235,1200,1500,39435,39735
+BMW,5 Series,2021-2024,Electric Parts,Fog Lamp,41035,800,1000,41835,42035
+BMW,5 Series,2021-2024,Electric Parts,Horn,9809,400,500,10209,10309
+BMW,5 Series,2021-2024,Body Parts,Front Windshield Glass,69592,2000,2500,71592,72092
+BMW,5 Series,2021-2024,Body Parts,Wipers,2362,400,500,2762,2862
+BMW,5 Series,2021-2024,Brakes & Suspension,Disc Brake Front,9156,1500,1800,10656,10956
+BMW,5 Series,2021-2024,Brakes & Suspension,Disc Brake Rear,9156,1500,1800,10656,10956
+BMW,5 Series,2021-2024,Brakes & Suspension,Shock Absorber Set,14990,1500,1800,16490,16790
+BMW,5 Series,2021-2024,Brakes & Suspension,Front Brake Pads,6502,800,1000,7302,7502
+BMW,5 Series,2021-2024,Brakes & Suspension,Rear Brake Pads,6502,800,1000,7302,7502
+BMW,5 Series,2021-2024,Service Parts,Oil Filter,3451,300,400,3751,3851
+BMW,5 Series,2021-2024,Service Parts,Air Filter,2163,300,400,2463,2563
+Maruti,Grand Vitara,2022-2024,Electric Parts,Head Light,11152,800,1000,11952,12152
+Maruti,Grand Vitara,2022-2024,Electric Parts,Tail Light,2187,600,800,2787,2987
+Maruti,Grand Vitara,2022-2024,Body Parts,Front Bumper,12325,1500,2000,13825,14325
+Maruti,Grand Vitara,2022-2024,Body Parts,Rear Bumper,10396,1500,2000,11896,12396
+Maruti,Grand Vitara,2022-2024,Body Parts,Bonnet/Hood,22163,1800,2200,23963,24363
+Maruti,Grand Vitara,2022-2024,Body Parts,Front Windshield Glass,18564,1500,1800,20064,20364
+Maruti,Grand Vitara,2022-2024,Body Parts,Rear Windshield Glass,12689,1200,1500,13889,14189
+Maruti,Grand Vitara,2022-2024,Body Parts,Fender,8335,800,1000,9135,9335
+Maruti,Grand Vitara,2022-2024,Body Parts,Front Door,14665,1200,1500,15865,16165
+Maruti,Grand Vitara,2022-2024,Body Parts,Rear Door,14304,1200,1500,15504,15804
+Maruti,Grand Vitara,2022-2024,Body Parts,Dicky,17208,1500,2000,18708,19208
+Toyota,Hyryder,2022-2024,Accessories,Front bumper garnish,3482,400,500,3882,3982
+Toyota,Hyryder,2022-2024,Accessories,Roof ornament,4326,500,600,4826,4926
+Toyota,Hyryder,2022-2024,Accessories,Headlight garnish,1203,300,400,1503,1603
+Toyota,Hyryder,2022-2024,Accessories,Rear bumper garnish,3891,400,500,4291,4391
+Toyota,Hyryder,2022-2024,Accessories,Roof spoiler extension,704,300,400,1004,1104
+Toyota,Hyryder,2022-2024,Accessories,Boot lid garnish,1485,300,400,1785,1885
+Toyota,Hyryder,2022-2024,Accessories,Body side molding,2739,400,500,3139,3239
+Toyota,Hyryder,2022-2024,Accessories,Door visor,1920,400,500,2320,2420
+Toyota,Hyryder,2022-2024,Accessories,Body cover,1994,200,300,2194,2294
+Toyota,Hyryder,2022-2024,Accessories,Rear reflector garnish,512,200,300,712,812
+Toyota,Hyryder,2022-2024,Accessories,ORVM garnish,563,300,400,863,963
+Toyota,Hyryder,2022-2024,Accessories,Side step,14413,800,1000,15213,15413
+Toyota,Hyryder,2022-2024,Accessories,Hood emblem,1075,200,300,1275,1375
+Toyota,Hyryder,2022-2024,Accessories,Body cladding,2957,400,500,3357,3457
+Toyota,Hyryder,2022-2024,Accessories,Fender garnish,986,300,400,1286,1386
+Toyota,Hyryder,2022-2024,Accessories,Taillight garnish,1114,300,400,1414,1514
+Toyota,Hyryder,2022-2024,Accessories,Side skirt,3290,500,600,3790,3890
+Toyota,Hyryder,2022-2024,Accessories,Door edge protector,602,200,300,802,902
+Toyota,Hyryder,2022-2024,Accessories,Roof carrier,14413,800,1000,15213,15413
+Toyota,Hyryder,2022-2024,Accessories,Roof basket,26790,1000,1200,27790,27990
+Toyota,Hyryder,2022-2024,Accessories,Tailgate garnish,1216,300,400,1516,1616
+Toyota,Hyryder,2022-2024,Accessories,Mud flap,512,200,300,712,812
+Toyota,Hyryder,2022-2024,Accessories,Tyre pressure monitoring system (TPMS),5427,600,800,6027,6227
+Toyota,Hyryder,2022-2024,Accessories,Illuminated door sill guard,7027,500,600,7527,7627
+Toyota,Hyryder,2022-2024,Accessories,Wireless phone charger,10337,600,800,10937,11137
+Toyota,Hyryder,2022-2024,Accessories,Speakers,1990,400,500,2390,2490
+Toyota,Hyryder,2022-2024,Accessories,Touchscreen system,12500,800,1000,13300,13500
+Toyota,Hyryder,2022-2024,Accessories,Seat covers,8538,500,600,9038,9138
+Toyota,Hyryder,2022-2024,Accessories,Window sunshades,728,300,400,1028,1128
+Toyota,Hyryder,2022-2024,Accessories,Rear windshield sunshade,661,200,300,861,961
+Toyota,Hyryder,2022-2024,Accessories,Steering wheel cover,525,200,300,725,825
+Toyota,Hyryder,2022-2024,Accessories,3D boot mat,2394,300,400,2694,2794
+Toyota,Hyryder,2022-2024,Accessories,Floor mats,2406,200,300,2606,2706
+Toyota,Hyryder,2022-2024,Accessories,Cushion,743,100,200,843,943
+Toyota,Hyryder,2022-2024,Accessories,Interior styling kit,8755,600,800,9355,9555
+Toyota,Hyryder,2022-2024,Accessories,Trunk sill guard,2790,300,400,3090,3190
+Toyota,Hyryder,2022-2024,Accessories,Door sill guard,2214,300,400,2514,2614
+Maruti,Vitara Brezza,2020-2024,Engine Parts,Radiator,5645,1200,1500,6845,7145
+Maruti,Vitara Brezza,2020-2024,Engine Parts,Timing Chain,1159,2000,2500,3159,3659
+Maruti,Vitara Brezza,2020-2024,Engine Parts,Fan Belt,410,400,500,810,910
+Maruti,Vitara Brezza,2020-2024,Engine Parts,Clutch Plate,3084,2500,3000,5584,6084
+Maruti,Vitara Brezza,2020-2024,Electric Parts,Head Light,4736,800,1000,5536,5736
+Maruti,Vitara Brezza,2020-2024,Electric Parts,Tail Light,1992,600,800,2592,2792
+Maruti,Vitara Brezza,2020-2024,Electric Parts,Head Light LED,10808,800,1000,11608,11808
+Maruti,Vitara Brezza,2020-2024,Body Parts,Front Bumper,3138,1200,1500,4338,4638
+Maruti,Vitara Brezza,2020-2024,Body Parts,Rear Bumper,1852,1200,1500,3052,3352
+Maruti,Vitara Brezza,2020-2024,Body Parts,Bonnet/Hood,7615,1500,2000,9115,9615
+Maruti,Vitara Brezza,2020-2024,Body Parts,Front Windshield Glass,4265,1500,1800,5765,6065
+Maruti,Vitara Brezza,2020-2024,Body Parts,Rear Windshield Glass,2303,1200,1500,3503,3803
+Maruti,Vitara Brezza,2020-2024,Body Parts,Fender,2038,800,1000,2838,3038
+Maruti,Vitara Brezza,2020-2024,Body Parts,Front Door,10094,1200,1500,11294,11594
+Maruti,Vitara Brezza,2020-2024,Body Parts,Rear Door,8941,1200,1500,10141,10441
+Maruti,Vitara Brezza,2020-2024,Body Parts,Dicky,10283,1500,2000,11783,12283
+Maruti,Vitara Brezza,2020-2024,Body Parts,Side View Mirror,1949,400,500,2349,2449
+Maruti,Vitara Brezza,2020-2024,Brakes & Suspension,Disc Brake Front,1388,800,1000,2188,2388
+Maruti,Vitara Brezza,2020-2024,Brakes & Suspension,Disc Brake Rear,1388,800,1000,2188,2388
+Maruti,Vitara Brezza,2020-2024,Brakes & Suspension,Front Brake Pads,2748,600,800,3348,3548
+Maruti,Vitara Brezza,2020-2024,Brakes & Suspension,Rear Brake Pads,2748,600,800,3348,3548
+Maruti,Vitara Brezza,2020-2024,Service Parts,Oil Filter,343,300,400,643,743
+Maruti,Vitara Brezza,2020-2024,Service Parts,Air Filter,389,300,400,689,789
+Maruti,Vitara Brezza,2020-2024,Service Parts,Fuel Filter,1658,300,400,1958,2058
+Hyundai,Venue,2019-2022,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Hyundai,Venue,2019-2022,Engine Parts,Timing Chain,2925,2000,2500,4925,5425
+Hyundai,Venue,2019-2022,Engine Parts,Spark Plug,1125,300,400,1425,1525
+Hyundai,Venue,2019-2022,Engine Parts,Fan Belt,700,400,500,1100,1200
+Hyundai,Venue,2019-2022,Engine Parts,Clutch Plate,9600,2500,3000,12100,12600
+Hyundai,Venue,2019-2022,Electric Parts,Head Light,15360,800,1000,16160,16360
+Hyundai,Venue,2019-2022,Electric Parts,Tail Light,2602,600,800,3202,3402
+Hyundai,Venue,2019-2022,Electric Parts,Fog Lamp Assembly,1398,600,800,1998,2198
+Hyundai,Venue,2019-2022,Electric Parts,Bulb,537,200,300,737,837
+Hyundai,Venue,2019-2022,Electric Parts,Combination Switch,6944,800,1000,7744,7944
+Hyundai,Venue,2019-2022,Electric Parts,Horn,1230,300,400,1530,1630
+Hyundai,Venue,2019-2022,Body Parts,Front Bumper,1820,1200,1500,3020,3320
+Hyundai,Venue,2019-2022,Body Parts,Rear Bumper,3393,1200,1500,4593,4893
+Hyundai,Venue,2019-2022,Body Parts,Bonnet/Hood,7919,1500,2000,9419,9919
+Hyundai,Venue,2019-2022,Body Parts,Front Windshield Glass,5120,1500,1800,6620,6920
+Hyundai,Venue,2019-2022,Body Parts,Rear Windshield Glass,3754,1200,1500,4954,5254
+Hyundai,Venue,2019-2022,Body Parts,Fender,2115,800,1000,2915,3115
+Hyundai,Venue,2019-2022,Body Parts,Front Door,12400,1200,1500,13600,13900
+Hyundai,Venue,2019-2022,Body Parts,Rear Door,11982,1200,1500,13182,13482
+Hyundai,Venue,2019-2022,Body Parts,Front Door Handle Outer,393,300,400,693,793
+Hyundai,Venue,2019-2022,Body Parts,Back Panel,1886,1000,1200,2886,3086
+Hyundai,Venue,2019-2022,Body Parts,Front Panel,1886,1000,1200,2886,3086
+Hyundai,Venue,2019-2022,Body Parts,Accessory belt,1086,500,600,1586,1686
+Hyundai,Venue,2019-2022,Body Parts,Side View Mirror,7583,600,800,8183,8383
+Hyundai,Venue,2019-2022,Body Parts,Silencer Assly,11198,1500,1800,12698,12998
+Hyundai,Venue,2019-2022,Body Parts,Wipers,550,300,400,850,950
+Hyundai,Venue,2019-2022,Brakes & Suspension,Disc Brake Front,3300,800,1000,4100,4300
+Hyundai,Venue,2019-2022,Brakes & Suspension,Disc Brake Rear,3300,800,1000,4100,4300
+Hyundai,Venue,2019-2022,Brakes & Suspension,Shock Absorber Set,5890,1200,1500,7090,7390
+Hyundai,Venue,2019-2022,Brakes & Suspension,Front Brake Pads,3770,600,800,4370,4570
+Hyundai,Venue,2019-2022,Brakes & Suspension,Rear Brake Pads,3770,600,800,4370,4570
+Hyundai,Venue,2019-2022,Oil & Lubricants,Engine Oil,1728,300,400,2028,2128
+Hyundai,Venue,2019-2022,Oil & Lubricants,Coolant,960,200,300,1160,1260
+Hyundai,Venue,2019-2022,Oil & Lubricants,Brake Oil,448,200,300,648,748
+Hyundai,Venue,2019-2022,Oil & Lubricants,Clutch Oil,448,200,300,648,748
+Hyundai,Venue,2019-2022,Service Parts,Oil Filter,4096,300,400,4396,4496
+Hyundai,Venue,2019-2022,Service Parts,Air Filter,384,300,400,684,784
+Hyundai,Venue,2019-2022,Service Parts,Fuel Filter,512,300,400,812,912
+Tata,Nexon,2020-2023,Engine Parts,Radiator,6728,1200,1500,7928,8228
+Tata,Nexon,2020-2023,Engine Parts,Timing Chain,2818,2000,2500,4818,5318
+Tata,Nexon,2020-2023,Engine Parts,Spark Plug,576,300,400,876,976
+Tata,Nexon,2020-2023,Engine Parts,Clutch Plate,4001,2500,3000,6501,7001
+Tata,Nexon,2020-2023,Electric Parts,Head Light,6871,800,1000,7671,7871
+Tata,Nexon,2020-2023,Electric Parts,Tail Light,2951,600,800,3551,3751
+Tata,Nexon,2020-2023,Electric Parts,Fog Lamp Assembly,2750,600,800,3350,3550
+Tata,Nexon,2020-2023,Electric Parts,Bulb,200,200,300,400,500
+Tata,Nexon,2020-2023,Electric Parts,Fog Lamp,6347,600,800,6947,7147
+Tata,Nexon,2020-2023,Electric Parts,Combination Switch,1978,800,1000,2778,2978
+Tata,Nexon,2020-2023,Electric Parts,Horn,588,300,400,888,988
+Tata,Nexon,2020-2023,Body Parts,Bonnet/Hood,23000,1800,2200,24800,25200
+Tata,Nexon,2020-2023,Body Parts,Rear Windshield Glass,11311,1200,1500,12511,12811
+Tata,Nexon,2020-2023,Body Parts,Fender,4278,800,1000,5078,5278
+Tata,Nexon,2020-2023,Body Parts,Front Door Handle Outer,1537,300,400,1837,1937
+Tata,Nexon,2020-2023,Body Parts,Back Panel,1594,1000,1200,2594,2794
+Tata,Nexon,2020-2023,Body Parts,Front Panel,1593,1000,1200,2593,2793
+Tata,Nexon,2020-2023,Body Parts,Accessory belt,1082,500,600,1582,1682
+Tata,Nexon,2020-2023,Body Parts,BACK DOOR,41000,2000,2500,43000,43500
+Tata,Nexon,2020-2023,Body Parts,Fuel Tank,7904,1500,1800,9404,9704
+Tata,Nexon,2020-2023,Body Parts,Side View Mirror,5888,600,800,6488,6688
+Tata,Nexon,2020-2023,Body Parts,Silencer Assly,8439,1500,1800,9939,10239
+Tata,Nexon,2020-2023,Body Parts,Wipers,747,300,400,1047,1147
+Tata,Nexon,2020-2023,Brakes & Suspension,Disc Brake Front,2618,800,1000,3418,3618
+Tata,Nexon,2020-2023,Brakes & Suspension,Disc Brake Rear,2618,800,1000,3418,3618
+Tata,Nexon,2020-2023,Brakes & Suspension,Shock Absorber Set,3313,1200,1500,4513,4813
+Tata,Nexon,2020-2023,Brakes & Suspension,Front Brake Pads,2890,600,800,3490,3690
+Tata,Nexon,2020-2023,Brakes & Suspension,Rear Brake Pads,2890,600,800,3490,3690
+Tata,Nexon,2020-2023,Service Parts,Oil Filter,702,300,400,1002,1102
+Tata,Nexon,2020-2023,Service Parts,Air Filter,408,300,400,708,808
+Tata,Nexon,2020-2023,Service Parts,Fuel Filter,4162,300,400,4462,4562
+Mahindra,XUV300,2020-2024,Engine Parts,Radiator,7539,1200,1500,8739,9039
+Mahindra,XUV300,2020-2024,Engine Parts,Intercooler,5300,1500,1800,6800,7100
+Mahindra,XUV300,2020-2024,Engine Parts,Timing Chain,1131,2000,2500,3131,3631
+Mahindra,XUV300,2020-2024,Engine Parts,Spark Plug,322,300,400,622,722
+Mahindra,XUV300,2020-2024,Engine Parts,Cylinder Kit,47914,3500,4000,51414,51914
+Mahindra,XUV300,2020-2024,Engine Parts,Clutch Plate,6726,2500,3000,9226,9726
+Mahindra,XUV300,2020-2024,Electric Parts,Head Light,4404,800,1000,5204,5404
+Mahindra,XUV300,2020-2024,Electric Parts,Tail Light,3690,600,800,4290,4490
+Mahindra,XUV300,2020-2024,Electric Parts,Fog Lamp Assembly,1011,600,800,1611,1811
+Mahindra,XUV300,2020-2024,Electric Parts,Bulb,583,200,300,783,883
+Mahindra,XUV300,2020-2024,Electric Parts,Fog Lamp,2022,600,800,2622,2822
+Mahindra,XUV300,2020-2024,Electric Parts,Combination Switch,4083,800,1000,4883,5083
+Mahindra,XUV300,2020-2024,Electric Parts,Horn,535,300,400,835,935
+Mahindra,XUV300,2020-2024,Body Parts,Front Bumper,4020,1200,1500,5220,5520
+Mahindra,XUV300,2020-2024,Body Parts,Rear Bumper,3956,1200,1500,5156,5456
+Mahindra,XUV300,2020-2024,Body Parts,Bonnet/Hood,8213,1500,2000,9713,10213
+Mahindra,XUV300,2020-2024,Body Parts,Front Windshield Glass,8697,1500,1800,10197,10497
+Mahindra,XUV300,2020-2024,Body Parts,Rear Windshield Glass,8518,1200,1500,9718,10018
+Mahindra,XUV300,2020-2024,Body Parts,Fender,2202,800,1000,3002,3202
+Mahindra,XUV300,2020-2024,Body Parts,Front Door Handle Outer,921,300,400,1221,1321
+Mahindra,XUV300,2020-2024,Body Parts,Rear View Mirror,1209,400,500,1609,1709
+Mahindra,XUV300,2020-2024,Body Parts,Back Panel,2845,1000,1200,3845,4045
+Mahindra,XUV300,2020-2024,Body Parts,Front Panel,2845,1000,1200,3845,4045
+Mahindra,XUV300,2020-2024,Body Parts,Accessory belt,3197,500,600,3697,3797
+Mahindra,XUV300,2020-2024,Body Parts,Side View Mirror,2511,400,500,2911,3011
+Mahindra,XUV300,2020-2024,Body Parts,Silencer Assly,21687,1500,1800,23187,23487
+Mahindra,XUV300,2020-2024,Body Parts,Engine Guard,2321,800,1000,3121,3221
+Mahindra,XUV300,2020-2024,Body Parts,Wipers,1077,300,400,1377,1477
+Mahindra,XUV300,2020-2024,Brakes & Suspension,Disc Brake Front,2202,800,1000,3002,3202
+Mahindra,XUV300,2020-2024,Brakes & Suspension,Disc Brake Rear,2202,800,1000,3002,3202
+Mahindra,XUV300,2020-2024,Brakes & Suspension,Shock Absorber Set,2008,1200,1500,3208,3508
+Mahindra,XUV300,2020-2024,Brakes & Suspension,Front Brake Pads,3274,600,800,3874,4074
+Mahindra,XUV300,2020-2024,Brakes & Suspension,Rear Brake Pads,3274,600,800,3874,4074
+Mahindra,XUV300,2020-2024,Service Parts,Oil Filter,204,300,400,504,604
+Mahindra,XUV300,2020-2024,Service Parts,Air Filter,378,300,400,678,778
+Mahindra,XUV300,2020-2024,Service Parts,Fuel Filter,709,300,400,1009,1109
+Hyundai,Alcazar,2021-2024,Oil & Lubricants,Engine Oil,1656,300,400,1956,2056
+Hyundai,Alcazar,2021-2024,Oil & Lubricants,Coolant,650,200,300,850,950
+Hyundai,Alcazar,2021-2024,Oil & Lubricants,Brake Oil,225,200,300,425,525
+Hyundai,Alcazar,2021-2024,Service Parts,Oil Filter,203,300,400,503,603
+Hyundai,Alcazar,2021-2024,Service Parts,Air Filter,184,300,400,484,584
+Skoda,Rapid,2012-2022,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Skoda,Rapid,2012-2022,Engine Parts,Intercooler,11450,1500,1800,12950,13250
+Skoda,Rapid,2012-2022,Engine Parts,Auxilary drive belt,945,400,500,1345,1445
+Skoda,Rapid,2012-2022,Engine Parts,Timing Chain,4090,2000,2500,6090,6590
+Skoda,Rapid,2012-2022,Engine Parts,Spark Plug,299,300,400,599,699
+Skoda,Rapid,2012-2022,Engine Parts,Fan Belt,1760,400,500,2160,2260
+Skoda,Rapid,2012-2022,Engine Parts,Clutch Plate,5715,2500,3000,8215,8715
+Skoda,Rapid,2012-2022,Electric Parts,Head Light,4065,800,1000,4865,5065
+Skoda,Rapid,2012-2022,Electric Parts,Tail Light,1914,600,800,2514,2714
+Skoda,Rapid,2012-2022,Electric Parts,Fog Lamp Assembly,5445,600,800,6045,6245
+Skoda,Rapid,2012-2022,Electric Parts,Bulb,575,200,300,775,875
+Skoda,Rapid,2012-2022,Electric Parts,Head Light LED,8444,800,1000,9244,9444
+Skoda,Rapid,2012-2022,Electric Parts,Combination Switch,1548,800,1000,2348,2548
+Skoda,Rapid,2012-2022,Electric Parts,Speedometer,11546,1000,1200,12546,12746
+Skoda,Rapid,2012-2022,Electric Parts,Horn,1250,300,400,1550,1650
+Skoda,Rapid,2012-2022,Body Parts,Front Bumper,2446,1200,1500,3646,3946
+Skoda,Rapid,2012-2022,Body Parts,Rear Bumper,3413,1200,1500,4613,4913
+Skoda,Rapid,2012-2022,Body Parts,Bonnet/Hood,7344,1500,2000,8844,9344
+Skoda,Rapid,2012-2022,Body Parts,Front Windshield Glass,4839,1500,1800,6339,6639
+Skoda,Rapid,2012-2022,Body Parts,Rear Windshield Glass,4550,1200,1500,5750,6050
+Skoda,Rapid,2012-2022,Body Parts,Fender,4550,800,1000,5350,5550
+Skoda,Rapid,2012-2022,Body Parts,Front Door,13198,1200,1500,14398,14698
+Skoda,Rapid,2012-2022,Body Parts,Rear Door,10694,1200,1500,11894,12194
+Skoda,Rapid,2012-2022,Body Parts,Dicky,11376,1500,2000,12876,13376
+Skoda,Rapid,2012-2022,Body Parts,Front Door Handle Outer,426,300,400,726,826
+Skoda,Rapid,2012-2022,Body Parts,Rear View Mirror,5487,400,500,5887,5987
+Skoda,Rapid,2012-2022,Body Parts,Back Panel,7295,1000,1200,8295,8495
+Skoda,Rapid,2012-2022,Body Parts,Front Panel,7295,1000,1200,8295,8495
+Skoda,Rapid,2012-2022,Body Parts,Accessory belt,1236,500,600,1736,1836
+Skoda,Rapid,2012-2022,Body Parts,BACK DOOR,2719,1500,2000,4219,4719
+Skoda,Rapid,2012-2022,Body Parts,Side View Mirror,849,400,500,1249,1349
+Skoda,Rapid,2012-2022,Body Parts,Wipers,590,300,400,890,990
+Skoda,Rapid,2012-2022,Brakes & Suspension,Disc Brake Front,2175,800,1000,2975,3175
+Skoda,Rapid,2012-2022,Brakes & Suspension,Disc Brake Rear,2175,800,1000,2975,3175
+Skoda,Rapid,2012-2022,Brakes & Suspension,Shock Absorber Set,1555,1200,1500,2755,3055
+Skoda,Rapid,2012-2022,Brakes & Suspension,Front Brake Pads,1845,600,800,2445,2645
+Skoda,Rapid,2012-2022,Brakes & Suspension,Rear Brake Pads,1845,600,800,2445,2645
+Skoda,Rapid,2012-2022,Service Parts,Oil Filter,669,300,400,969,1069
+Skoda,Rapid,2012-2022,Service Parts,Air Filter,349,300,400,649,749
+Skoda,Rapid,2012-2022,Service Parts,Fuel Filter,1285,300,400,1585,1685
+MG,Astor,2021-2024,Accessories,Mud flaps,499,200,300,699,799
+MG,Astor,2021-2024,Accessories,Black bumper corner protector,1099,300,400,1399,1499
+MG,Astor,2021-2024,Accessories,Chrome bumper corner protector,1299,300,400,1599,1699
+MG,Astor,2021-2024,Accessories,Chrome outside door handle,1749,300,400,2049,2149
+MG,Astor,2021-2024,Accessories,Front fog lamp chrome garnish,1299,300,400,1599,1699
+MG,Astor,2021-2024,Accessories,Rear fog lamp chrome garnish,1350,300,400,1650,1750
+MG,Astor,2021-2024,Accessories,Headlamp chrome garnish,1749,300,400,2049,2149
+MG,Astor,2021-2024,Accessories,ORVM chrome garnish,899,300,400,1199,1299
+MG,Astor,2021-2024,Accessories,Tail lamp chrome garnish,1599,300,400,1899,1999
+MG,Astor,2021-2024,Accessories,Tailgate chrome garnish,1499,300,400,1799,1899
+MG,Astor,2021-2024,Accessories,Wheel arch chrome garnish,3999,400,500,4399,4499
+MG,Astor,2021-2024,Accessories,Front lower chrome surround,1199,300,400,1499,1599
+MG,Astor,2021-2024,Accessories,Black body side moulding,2399,400,500,2799,2899
+MG,Astor,2021-2024,Accessories,Chrome body side moulding,2999,400,500,3399,3499
+MG,Astor,2021-2024,Accessories,Chrome door visor,2799,400,500,3199,3299
+MG,Astor,2021-2024,Accessories,Door visor,2299,400,500,2699,2799
+MG,Astor,2021-2024,Accessories,Boot sill guard,1599,300,400,1899,1999
+MG,Astor,2021-2024,Accessories,Door sill guard,1659,300,400,1959,2059
+MG,Astor,2021-2024,Accessories,Black tail lamp connector,1299,300,400,1599,1699
+MG,Astor,2021-2024,Accessories,Chrome tail lamp connector,1799,300,400,2099,2199
+MG,Astor,2021-2024,Accessories,Car cover,1980,200,300,2180,2280
+MG,Astor,2021-2024,Accessories,Spoiler extension,3099,400,500,3499,3599
+MG,Astor,2021-2024,Accessories,Rear bull bar,3999,500,600,4499,4599
+MG,Astor,2021-2024,Accessories,Door edge guard,1799,300,400,2099,2199
+MG,Astor,2021-2024,Accessories,Hood scoop,3799,400,500,4199,4299
+MG,Astor,2021-2024,Accessories,Side scoop,3399,400,500,3799,3899
+MG,Astor,2021-2024,Accessories,Illuminated wheel hub,5999,600,800,6599,6799
+MG,Astor,2021-2024,Accessories,Chrome/Black hood lettering,1374,300,400,1674,1774
+MG,Astor,2021-2024,Accessories,Fuel lid garnish,1849,300,400,2149,2249
+MG,Astor,2021-2024,Accessories,Sidestep board,16140,800,1000,16940,17140
+MG,Astor,2021-2024,Accessories,Paint protection coating,5685,500,600,6185,6285
+MG,Astor,2021-2024,Accessories,Exhaust finisher,2499,300,400,2799,2899
+MG,Astor,2021-2024,Accessories,Puddle lamps,3999,400,500,4399,4499
+MG,Astor,2021-2024,Accessories,360-degree camera,13909,800,1000,14709,14909
+MG,Astor,2021-2024,Accessories,Body graphics,2399,400,500,2799,2899
+MG,Astor,2021-2024,Accessories,Bicycle carrier,6762,500,600,7262,7362
+MG,Astor,2021-2024,Accessories,Chrome cleaning kit,375,100,200,475,575
+MG,Astor,2021-2024,Accessories,Car care kit,599,200,300,799,899
+MG,Astor,2021-2024,Accessories,Tyre inflator,3228,300,400,3528,3628
+MG,Astor,2021-2024,Accessories,Jumper cable,2062,200,300,2262,2362
+MG,Astor,2021-2024,Accessories,Emergency car kit,5018,400,500,5418,5518
+Renault,Kiger,2021-2024,Accessories,16-inch alloy wheels,7450,800,1000,8250,8450
+Renault,Kiger,2021-2024,Accessories,Alloy wheel inserts,750,200,300,950,1050
+Renault,Kiger,2021-2024,Accessories,Anti-slip dashboard mat,189,100,200,289,389
+Renault,Kiger,2021-2024,Accessories,Black bumper corner protector,850,300,400,1150,1250
+Renault,Kiger,2021-2024,Accessories,Chrome bumper corner protector,1524,300,400,1824,1924
+Renault,Kiger,2021-2024,Accessories,Body decals,5500,400,500,5900,6000
+Renault,Kiger,2021-2024,Accessories,Body side cladding with chrome,4690,400,500,5090,5190
+Renault,Kiger,2021-2024,Accessories,Body cover,1900,200,300,2100,2200
+Renault,Kiger,2021-2024,Accessories,Chrome outside door handle,1092,300,400,1392,1492
+Renault,Kiger,2021-2024,Accessories,Door visor,1950,400,500,2350,2450
+Renault,Kiger,2021-2024,Accessories,Front bumper chrome,780,300,400,1080,1180
+Renault,Kiger,2021-2024,Accessories,Front grille chrome inserts,1350,300,400,1650,1750
+Renault,Kiger,2021-2024,Accessories,Front grille chrome liner,980,300,400,1280,1380
+Renault,Kiger,2021-2024,Accessories,Front grille chrome garnish,1600,300,400,1900,2000
+Renault,Kiger,2021-2024,Accessories,Front parking sensor,2489,400,500,2889,2989
+Renault,Kiger,2021-2024,Accessories,Window frame kit,1900,400,500,2300,2400
+Renault,Kiger,2021-2024,Accessories,ORVM chrome garnish,620,300,400,920,1020
+Renault,Kiger,2021-2024,Accessories,Mud flaps,410,200,300,610,710
+Renault,Kiger,2021-2024,Accessories,Mud flap kit,750,200,300,950,1050
+Renault,Kiger,2021-2024,Accessories,Tailgate chrome,1800,300,400,2100,2200
+Renault,Kiger,2021-2024,Accessories,Rear bumper chrome,650,300,400,950,1050
+Renault,Kiger,2021-2024,Accessories,Boot sill guard,1490,300,400,1790,1890
+Renault,Kiger,2021-2024,Accessories,Roof carrier,9990,800,1000,10790,10990
+Renault,Kiger,2021-2024,Accessories,Functional roof rails,8990,800,1000,9790,9990
+Renault,Kiger,2021-2024,Accessories,Valve cap,120,100,200,220,320
+Renault,Kiger,2021-2024,Accessories,Door edge guard,290,200,300,490,590
+Renault,Kiger,2021-2024,Accessories,Licence plate holder,499,200,300,699,799
+Nissan,Magnite,2020-2024,Engine Parts,Radiator,9452,1200,1500,10652,10952
+Nissan,Magnite,2020-2024,Engine Parts,Intercooler,9985,1500,1800,11485,11785
+Nissan,Magnite,2020-2024,Engine Parts,Timing Chain,5383,2000,2500,7383,7883
+Nissan,Magnite,2020-2024,Engine Parts,Spark Plug,936,300,400,1236,1336
+Nissan,Magnite,2020-2024,Engine Parts,Clutch Plate,5466,2500,3000,7966,8466
+Nissan,Magnite,2020-2024,Electric Parts,Tail Light,3966,600,800,4566,4766
+Nissan,Magnite,2020-2024,Electric Parts,Fog Lamp Assembly,4556,600,800,5156,5356
+Nissan,Magnite,2020-2024,Electric Parts,Bulb,420,200,300,620,720
+Nissan,Magnite,2020-2024,Electric Parts,Combination Switch,5789,800,1000,6589,6789
+Nissan,Magnite,2020-2024,Electric Parts,Horn,1517,300,400,1817,1917
+Nissan,Magnite,2020-2024,Body Parts,Bonnet/Hood,5300,1500,2000,6800,7300
+Nissan,Magnite,2020-2024,Body Parts,Fender,4962,800,1000,5762,5962
+Nissan,Magnite,2020-2024,Body Parts,Dicky,6400,1500,2000,7900,8400
+Nissan,Magnite,2020-2024,Body Parts,Front Door Handle Outer,496,300,400,796,896
+Nissan,Magnite,2020-2024,Body Parts,Rear View Mirror,499,400,500,899,999
+Nissan,Magnite,2020-2024,Body Parts,Back Panel,2432,1000,1200,3432,3632
+Nissan,Magnite,2020-2024,Body Parts,Front Panel,2432,1000,1200,3432,3632
+Nissan,Magnite,2020-2024,Body Parts,Accessory belt,1480,500,600,1980,2080
+Nissan,Magnite,2020-2024,Body Parts,Side View Mirror,3154,400,500,3554,3654
+Nissan,Magnite,2020-2024,Body Parts,Silencer Assly,6500,1500,1800,8000,8300
+Nissan,Magnite,2020-2024,Body Parts,Wipers,360,300,400,660,760
+Nissan,Magnite,2020-2024,Brakes & Suspension,Disc Brake Front,4457,800,1000,5257,5457
+Nissan,Magnite,2020-2024,Brakes & Suspension,Disc Brake Rear,4457,800,1000,5257,5457
+Nissan,Magnite,2020-2024,Brakes & Suspension,Shock Absorber Set,4792,1200,1500,5992,6292
+Nissan,Magnite,2020-2024,Brakes & Suspension,Front Brake Pads,2291,600,800,2891,3091
+Nissan,Magnite,2020-2024,Brakes & Suspension,Rear Brake Pads,2291,600,800,2891,3091
+Nissan,Magnite,2020-2024,Service Parts,Oil Filter,544,300,400,844,944
+Nissan,Magnite,2020-2024,Service Parts,Air Filter,664,300,400,964,1064
+Nissan,Magnite,2020-2024,Service Parts,Fuel Filter,2070,300,400,2370,2470
+Hyundai,i20,2020-2023,Engine Parts,Radiator,3600,1200,1500,4800,5100
+Hyundai,i20,2020-2023,Engine Parts,Timing Chain,6148,2000,2500,8148,8648
+Hyundai,i20,2020-2023,Engine Parts,Spark Plug,369,300,400,669,769
+Hyundai,i20,2020-2023,Engine Parts,Clutch Plate,6144,2500,3000,8644,9144
+Hyundai,i20,2020-2023,Electric Parts,Head Light,4748,800,1000,5548,5748
+Hyundai,i20,2020-2023,Electric Parts,Tail Light,1920,600,800,2520,2720
+Hyundai,i20,2020-2023,Electric Parts,Fog Lamp Assembly,2512,600,800,3112,3312
+Hyundai,i20,2020-2023,Electric Parts,Bulb,537,200,300,737,837
+Hyundai,i20,2020-2023,Electric Parts,Combination Switch,2807,800,1000,3607,3807
+Hyundai,i20,2020-2023,Body Parts,Front Bumper,1625,1200,1500,2825,3125
+Hyundai,i20,2020-2023,Body Parts,Rear Bumper,2412,1200,1500,3612,3912
+Hyundai,i20,2020-2023,Body Parts,Bonnet/Hood,3929,1500,2000,5429,5929
+Hyundai,i20,2020-2023,Body Parts,Front Windshield Glass,3584,1500,1800,5084,5384
+Hyundai,i20,2020-2023,Body Parts,Rear Windshield Glass,2649,1200,1500,3849,4149
+Hyundai,i20,2020-2023,Body Parts,Fender,1459,800,1000,2259,2459
+Hyundai,i20,2020-2023,Body Parts,Front Door,6334,1200,1500,7534,7834
+Hyundai,i20,2020-2023,Body Parts,Rear Door,7770,1200,1500,8970,9270
+Hyundai,i20,2020-2023,Body Parts,Dicky,3776,1500,2000,5276,5776
+Hyundai,i20,2020-2023,Body Parts,Front Door Handle Outer,393,300,400,693,793
+Hyundai,i20,2020-2023,Body Parts,Back Panel,1713,1000,1200,2713,2913
+Hyundai,i20,2020-2023,Body Parts,Front Panel,1713,1000,1200,2713,2913
+Hyundai,i20,2020-2023,Body Parts,Accessory belt,1240,500,600,1740,1840
+Hyundai,i20,2020-2023,Body Parts,Side View Mirror,3401,400,500,3801,3901
+Hyundai,i20,2020-2023,Body Parts,Wipers,1698,300,400,1998,2098
+Hyundai,i20,2020-2023,Brakes & Suspension,Disc Brake Front,7505,800,1000,8305,8505
+Hyundai,i20,2020-2023,Brakes & Suspension,Disc Brake Rear,7505,800,1000,8305,8505
+Hyundai,i20,2020-2023,Brakes & Suspension,Shock Absorber Set,2040,1200,1500,3240,3540
+Hyundai,i20,2020-2023,Brakes & Suspension,Front Brake Pads,2536,600,800,3136,3336
+Hyundai,i20,2020-2023,Brakes & Suspension,Rear Brake Pads,2536,600,800,3136,3336
+Hyundai,i20,2020-2023,Service Parts,Oil Filter,470,300,400,770,870
+Hyundai,i20,2020-2023,Service Parts,Air Filter,1354,300,400,1654,1754
+Hyundai,i20,2020-2023,Service Parts,Fuel Filter,1986,300,400,2286,2386
+Kia,Seltos,2019-2023,Accessories,Boot Mat,1005,200,300,1205,1305
+Kia,Seltos,2019-2023,Accessories,Boot Organizer,1651,200,300,1851,1951
+Kia,Seltos,2019-2023,Accessories,Boot Chrome Accent,869,300,400,1169,1269
+Kia,Seltos,2019-2023,Accessories,Tissue Box,595,100,200,695,795
+Kia,Seltos,2019-2023,Accessories,Car Dustbin,494,100,200,594,694
+Kia,Seltos,2019-2023,Accessories,Premium Cushions,1358,200,300,1558,1658
+Kia,Seltos,2019-2023,Accessories,Lumber Support,876,200,300,1076,1176
+Kia,Seltos,2019-2023,Accessories,Premium Neck Rest,849,200,300,1049,1149
+Kia,Seltos,2019-2023,Accessories,Back Seat Organizer,848,200,300,1048,1148
+Kia,Seltos,2019-2023,Accessories,Bumper Corner Protector,731,300,400,1031,1131
+Kia,Seltos,2019-2023,Accessories,Rear Reflector Cover Garnish,809,300,400,1109,1209
+Kia,Seltos,2019-2023,Accessories,Headlight Chrome,1409,300,400,1709,1809
+Kia,Seltos,2019-2023,Accessories,Front Fog lamp Cover Garnish,784,300,400,1084,1184
+Kia,Seltos,2019-2023,Accessories,Mud Flap,634,200,300,834,934
+Kia,Seltos,2019-2023,Accessories,Door Handle Chrome,1201,300,400,1501,1601
+MG,Hector,2021-2023,Electric Parts,Tail Light,1364,600,800,1964,2164
+MG,Hector,2021-2023,Electric Parts,Horn,429,300,400,729,829
+MG,Hector,2021-2023,Body Parts,Bonnet/Hood,4248,1500,2000,5748,6248
+MG,Hector,2021-2023,Body Parts,Front Door Handle Outer,1956,300,400,2256,2356
+MG,Hector,2021-2023,Body Parts,Bumper Spoiler,6049,500,600,6549,6649
+MG,Hector,2021-2023,Body Parts,Side View Mirror,778,400,500,1178,1278
+MG,Hector,2021-2023,Body Parts,Wipers,239,300,400,539,639
+MG,Hector,2021-2023,Accessories,Gear Lock,1425,300,400,1725,1825
+MG,Hector,2021-2023,Accessories,Mobile Holder,711,200,300,911,1011
+MG,Hector,2021-2023,Accessories,Arm Rest,2995,400,500,3395,3495
+MG,Hector,2021-2023,Service Parts,Air Filter,333,300,400,633,733
+Tata,Harrier,2019-2023,Electric Parts,Fog Lamp Assembly,2112,600,800,2712,2912
+Tata,Harrier,2019-2023,Electric Parts,Fog Lamp,2112,600,800,2712,2912
+Tata,Harrier,2019-2023,Body Parts,Front Bumper,2406,1200,1500,3606,3906
+Tata,Harrier,2019-2023,Body Parts,Rear Bumper,2912,1200,1500,4112,4412
+Tata,Harrier,2019-2023,Body Parts,Front Door Handle Outer,2195,300,400,2495,2595
+Tata,Harrier,2019-2023,Service Parts,Oil Filter,650,300,400,950,1050
+Tata,Harrier,2019-2023,Service Parts,Air Filter,850,300,400,1150,1250
+Tata,Harrier,2019-2023,Service Parts,Fuel Filter,1500,300,400,1800,1900
+Maruti,Wagon R,2019-2023,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Maruti,Wagon R,2019-2023,Engine Parts,Timing Chain,630,2000,2500,2630,3130
+Maruti,Wagon R,2019-2023,Engine Parts,Spark Plug,299,300,400,599,699
+Maruti,Wagon R,2019-2023,Engine Parts,Fan Belt,239,400,500,639,739
+Maruti,Wagon R,2019-2023,Engine Parts,Clutch Plate,1799,2500,3000,4299,4799
+Maruti,Wagon R,2019-2023,Electric Parts,Head Light,2944,800,1000,3744,3944
+Maruti,Wagon R,2019-2023,Electric Parts,Tail Light,1168,600,800,1768,1968
+Maruti,Wagon R,2019-2023,Body Parts,Front Bumper,1792,1200,1500,2992,3292
+Maruti,Wagon R,2019-2023,Body Parts,Rear Bumper,3072,1200,1500,4272,4572
+Maruti,Wagon R,2019-2023,Body Parts,Bonnet/Hood,3712,1500,2000,5212,5712
+Maruti,Wagon R,2019-2023,Body Parts,Front Windshield Glass,3968,1500,1800,5468,5768
+Maruti,Wagon R,2019-2023,Body Parts,Rear Windshield Glass,2503,1200,1500,3703,4003
+Maruti,Wagon R,2019-2023,Body Parts,Fender,1280,800,1000,2080,2280
+Maruti,Wagon R,2019-2023,Body Parts,Front Door,5888,1200,1500,7088,7388
+Maruti,Wagon R,2019-2023,Body Parts,Dicky,6232,1500,2000,7732,8232
+Maruti,Wagon R,2019-2023,Body Parts,Side View Mirror,555,400,500,955,1055
+Maruti,Wagon R,2019-2023,Brakes & Suspension,Disc Brake Front,674,800,1000,1474,1674
+Maruti,Wagon R,2019-2023,Brakes & Suspension,Disc Brake Rear,674,800,1000,1474,1674
+Maruti,Wagon R,2019-2023,Brakes & Suspension,Front Brake Pads,1047,600,800,1647,1847
+Maruti,Wagon R,2019-2023,Brakes & Suspension,Rear Brake Pads,1047,600,800,1647,1847
+Maruti,Wagon R,2019-2023,Service Parts,Air Filter,191,300,400,491,591
+Maruti,Wagon R,2019-2023,Service Parts,Fuel Filter,319,300,400,619,719
+Maruti,Ertiga,2019-2023,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Maruti,Ertiga,2019-2023,Engine Parts,Timing Chain,630,2000,2500,2630,3130
+Maruti,Ertiga,2019-2023,Engine Parts,Spark Plug,779,300,400,1079,1179
+Maruti,Ertiga,2019-2023,Engine Parts,Fan Belt,239,400,500,639,739
+Maruti,Ertiga,2019-2023,Engine Parts,Clutch Plate,3340,2500,3000,5840,6340
+Maruti,Ertiga,2019-2023,Electric Parts,Head Light,3328,800,1000,4128,4328
+Maruti,Ertiga,2019-2023,Electric Parts,Tail Light,2469,600,800,3069,3269
+Maruti,Ertiga,2019-2023,Body Parts,Front Bumper,1740,1200,1500,2940,3240
+Maruti,Ertiga,2019-2023,Body Parts,Rear Bumper,2816,1200,1500,4016,4316
+Maruti,Ertiga,2019-2023,Body Parts,Bonnet/Hood,6000,1500,2000,7500,8000
+Maruti,Ertiga,2019-2023,Body Parts,Front Windshield Glass,5247,1500,1800,6747,7047
+Maruti,Ertiga,2019-2023,Body Parts,Rear Windshield Glass,2442,1200,1500,3642,3942
+Maruti,Ertiga,2019-2023,Body Parts,Fender,1973,800,1000,2773,2973
+Maruti,Ertiga,2019-2023,Body Parts,Front Door,8690,1200,1500,9890,10190
+Maruti,Ertiga,2019-2023,Body Parts,Dicky,12514,1500,2000,14014,14514
+Maruti,Ertiga,2019-2023,Brakes & Suspension,Disc Brake Front,1795,800,1000,2595,2795
+Maruti,Ertiga,2019-2023,Brakes & Suspension,Disc Brake Rear,1795,800,1000,2595,2795
+Maruti,Ertiga,2019-2023,Brakes & Suspension,Front Brake Pads,3240,600,800,3840,4040
+Maruti,Ertiga,2019-2023,Brakes & Suspension,Rear Brake Pads,3240,600,800,3840,4040
+Maruti,Ertiga,2019-2023,Service Parts,Air Filter,300,300,400,600,700
+Maruti,Ertiga,2019-2023,Service Parts,Fuel Filter,475,300,400,775,875
+Honda,CR-V,2020-2023,Engine Parts,Radiator,4410,1200,1500,5610,5910
+Honda,CR-V,2020-2023,Engine Parts,Intercooler,4067,1500,1800,5567,5867
+Honda,CR-V,2020-2023,Engine Parts,Timing Chain,14208,2000,2500,16208,16708
+Honda,CR-V,2020-2023,Engine Parts,Spark Plug,872,300,400,1172,1272
+Honda,CR-V,2020-2023,Engine Parts,Cylinder Kit,94885,3500,4000,98385,98885
+Honda,CR-V,2020-2023,Engine Parts,Clutch Plate,10836,2500,3000,13336,13836
+Honda,CR-V,2020-2023,Electric Parts,Head Light,16762,800,1000,17562,17762
+Honda,CR-V,2020-2023,Electric Parts,Tail Light,4496,600,800,5096,5296
+Honda,CR-V,2020-2023,Electric Parts,Fog Lamp Assembly,12251,600,800,12851,13051
+Honda,CR-V,2020-2023,Electric Parts,Bulb,393,200,300,593,693
+Honda,CR-V,2020-2023,Electric Parts,Fog Lamp,8402,600,800,9002,9202
+Honda,CR-V,2020-2023,Electric Parts,Head Light LED,8444,800,1000,9244,9444
+Honda,CR-V,2020-2023,Electric Parts,Combination Switch,1917,800,1000,2717,2917
+Honda,CR-V,2020-2023,Electric Parts,Battery,4749,500,600,5249,5349
+Honda,CR-V,2020-2023,Electric Parts,Horn,3429,300,400,3729,3829
+Honda,CR-V,2020-2023,Body Parts,Front Bumper,15509,1500,2000,17009,17509
+Honda,CR-V,2020-2023,Body Parts,Rear Bumper,14388,1500,2000,15888,16388
+Honda,CR-V,2020-2023,Body Parts,Bonnet/Hood,60226,1800,2200,62026,62426
+Honda,CR-V,2020-2023,Body Parts,Front Windshield Glass,53294,1500,1800,54794,55094
+Honda,CR-V,2020-2023,Body Parts,Rear Windshield Glass,37564,1200,1500,38764,39064
+Honda,CR-V,2020-2023,Body Parts,Fender,9809,800,1000,10609,10809
+Honda,CR-V,2020-2023,Body Parts,Front Door,27384,1200,1500,28584,28884
+Honda,CR-V,2020-2023,Body Parts,Rear Door,30304,1200,1500,31504,31804
+Honda,CR-V,2020-2023,Body Parts,Dicky,27179,1500,2000,28679,29179
+Honda,CR-V,2020-2023,Body Parts,Front Door Handle Outer,8871,300,400,9171,9271
+Honda,CR-V,2020-2023,Body Parts,Rear View Mirror,16108,400,500,16508,16608
+Honda,CR-V,2020-2023,Body Parts,Back Panel,12741,1000,1200,13741,13941
+Honda,CR-V,2020-2023,Body Parts,Front Panel,12741,1000,1200,13741,13941
+Honda,CR-V,2020-2023,Body Parts,Accessory belt,4266,500,600,4766,4866
+Honda,CR-V,2020-2023,Body Parts,BACK DOOR,2719,1500,2000,4219,4719
+Honda,CR-V,2020-2023,Body Parts,Fuel Tank,42804,2000,2500,44804,45304
+Honda,CR-V,2020-2023,Body Parts,Side View Mirror,13772,600,800,14372,14572
+Honda,CR-V,2020-2023,Body Parts,Silencer Assly,26579,1500,1800,28079,28379
+Honda,CR-V,2020-2023,Body Parts,Engine Guard,9332,800,1000,10132,10332
+Honda,CR-V,2020-2023,Body Parts,Wipers,2195,300,400,2495,2595
+Honda,CR-V,2020-2023,Brakes & Suspension,Disc Brake Front,12880,800,1000,13680,13880
+Honda,CR-V,2020-2023,Brakes & Suspension,Disc Brake Rear,12880,800,1000,13680,13880
+Honda,CR-V,2020-2023,Brakes & Suspension,Shock Absorber Set,15625,1200,1500,16825,17125
+Honda,CR-V,2020-2023,Brakes & Suspension,Front Brake Pads,7926,600,800,8526,8726
+Honda,CR-V,2020-2023,Brakes & Suspension,Rear Brake Pads,7926,600,800,8526,8726
+Honda,CR-V,2020-2023,Wheels,Wheel (Rim) Front,4499,800,1000,5299,5499
+Honda,CR-V,2020-2023,Wheels,Wheel (Rim) Rear,4602,800,1000,5402,5602
+Honda,CR-V,2020-2023,Service Parts,Oil Filter,631,300,400,931,1031
+Honda,CR-V,2020-2023,Service Parts,Air Filter,1488,300,400,1788,1888
+Honda,CR-V,2020-2023,Service Parts,Fuel Filter,2211,300,400,2511,2611
+Hyundai,Grand i10 Nios,2019-2023,Engine Parts,Radiator,5644,1200,1500,6844,7144
+Hyundai,Grand i10 Nios,2019-2023,Engine Parts,Timing Chain,1000,2000,2500,3000,3500
+Hyundai,Grand i10 Nios,2019-2023,Engine Parts,Spark Plug,1130,300,400,1430,1530
+Hyundai,Grand i10 Nios,2019-2023,Engine Parts,Fan Belt,550,400,500,950,1050
+Hyundai,Grand i10 Nios,2019-2023,Engine Parts,Clutch Plate,2575,2500,3000,5075,5575
+Hyundai,Grand i10 Nios,2019-2023,Electric Parts,Head Light,3367,800,1000,4167,4367
+Hyundai,Grand i10 Nios,2019-2023,Electric Parts,Tail Light,1497,600,800,2097,2297
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Front Bumper,1433,1200,1500,2633,2933
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Rear Bumper,1600,1200,1500,2800,3100
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Bonnet/Hood,3033,1500,2000,4533,5033
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Front Windshield Glass,3214,1500,1800,4714,5014
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Rear Windshield Glass,1766,1200,1500,2966,3266
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Fender,1344,800,1000,2144,2344
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Front Door,6080,1200,1500,7280,7580
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Rear Door,6690,1200,1500,7890,8190
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Dicky,4162,1500,2000,5662,6162
+Hyundai,Grand i10 Nios,2019-2023,Body Parts,Side View Mirror,1055,400,500,1455,1555
+Hyundai,Grand i10 Nios,2019-2023,Brakes & Suspension,Disc Brake Front,990,800,1000,1790,1990
+Hyundai,Grand i10 Nios,2019-2023,Brakes & Suspension,Disc Brake Rear,990,800,1000,1790,1990
+Hyundai,Grand i10 Nios,2019-2023,Brakes & Suspension,Front Brake Pads,1580,600,800,2180,2380
+Hyundai,Grand i10 Nios,2019-2023,Brakes & Suspension,Rear Brake Pads,1580,600,800,2180,2380
+Hyundai,Grand i10 Nios,2019-2023,Service Parts,Oil Filter,460,300,400,760,860
+Hyundai,Grand i10 Nios,2019-2023,Service Parts,Air Filter,200,300,400,500,600
+Hyundai,Grand i10 Nios,2019-2023,Service Parts,Fuel Filter,395,300,400,695,795
